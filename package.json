@@ -80,7 +80,7 @@
     "form-data": "^4.0.0",
     "helmet": "^4.6.0",
     "jwt-decode": "^3.1.2",
-    "lowdb": "github:dankreiger/lowdb#chore/esm-cjs-hybrid-WITH-LIB",
+    "lowdb": "6.1.1",
     "luxon": "^2.5.2",
     "passport": "^0.6.0",
     "passport-oauth2": "^1.7.0",
